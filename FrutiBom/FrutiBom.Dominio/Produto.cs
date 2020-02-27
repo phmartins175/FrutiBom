@@ -2,7 +2,7 @@
 
 namespace FrutiBom.Dominio
 {
-    public class Class1
+    public class Produto
     {
     }
 }
